@@ -22,6 +22,7 @@ A Chrome extension that provides quick access to your recent downloads and clipb
 ### From Source (Development)
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/yourusername/gx-popup.git
    cd gx-popup
@@ -126,6 +127,7 @@ Contributions are welcome! Here's how you can help:
 ## Privacy
 
 This extension:
+
 - ✅ Only accesses your downloads and clipboard when you open the popup
 - ✅ Stores data locally on your device only
 - ✅ Does not send any data to external servers
@@ -146,6 +148,7 @@ If you encounter any issues or have feature requests:
 ## Changelog
 
 ### Version 1.0 (Current)
+
 - Initial release
 - Recent downloads display (last 3 items)
 - Clipboard content preview

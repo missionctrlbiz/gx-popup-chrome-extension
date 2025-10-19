@@ -48,6 +48,7 @@ Thank you for your interest in contributing to Easy Files for Chrome! This docum
 #### Development Setup
 
 1. **Load the extension in Chrome**:
+
    - Navigate to `chrome://extensions/`
    - Enable "Developer mode"
    - Click "Load unpacked"
@@ -75,6 +76,7 @@ Thank you for your interest in contributing to Easy Files for Chrome! This docum
 - Add detailed description if needed
 
 Example:
+
 ```
 Add file size display to download items
 
@@ -88,6 +90,7 @@ Add file size display to download items
 1. **Update documentation** if needed
 2. **Test your changes** thoroughly
 3. **Create a pull request** with:
+
    - Clear title and description
    - Link to related issues
    - Screenshots/GIFs for UI changes
@@ -139,6 +142,7 @@ Add file size display to download items
 ## Recognition
 
 Contributors will be recognized in:
+
 - README.md contributors section
 - Release notes for significant contributions
 - GitHub contributors graph

@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Planned
+
 - File type icons for different download types
 - Download history search functionality
 - Keyboard shortcuts for quick access
@@ -19,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2025-10-20
 
 ### Added
+
 - Initial release of Easy Files for Chrome extension
 - Recent downloads display (last 3 items)
 - Clipboard content preview (first 100 characters)
@@ -31,12 +33,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automated build script (`create_extension.sh`)
 
 ### Technical Details
+
 - **Permissions**: `downloads`, `clipboardRead`
 - **Architecture**: Service worker + popup interface
 - **Storage**: Chrome local storage API
 - **UI**: HTML/CSS/JavaScript with responsive design
 
 ### Files Structure
+
 - `manifest.json` - Extension configuration
 - `background.js` - Download event monitoring
 - `popup.html` - User interface
@@ -48,19 +52,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Release Notes Format
 
 ### Added
+
 - New features
 
 ### Changed
+
 - Changes in existing functionality
 
 ### Deprecated
+
 - Soon-to-be removed features
 
 ### Removed
+
 - Removed features
 
 ### Fixed
+
 - Bug fixes
 
 ### Security
+
 - Security improvements
